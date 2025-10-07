@@ -146,10 +146,11 @@ This website is proprietary to ConnectSphere. All rights reserved.
 
 ## 🤝 Contributing
 
-This is a private company website. For any suggestions or issues, please contact our development team at contact@connectsphere.ai
+This is a private company website. For any suggestions or issues, please contact our development team at hello.connectsphere.official@gmail.com
 
 ---
 
 **ConnectSphere** - *Connecting Intelligence, Shaping Tomorrow*
+
 
 Visit our AI platform: [Nexus AI](https://ainexusplatform.vercel.app/)
